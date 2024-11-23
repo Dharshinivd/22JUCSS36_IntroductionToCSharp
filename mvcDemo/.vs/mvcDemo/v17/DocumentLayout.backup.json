@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\data\\applicationdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\data\\applicationdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,6 +46,32 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "mvcDemo\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "mvcDemo\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:52:58.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "mvcDemo\\Models\\Student.cs",
+              "ToolTip": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Models\\Student.cs",
+              "RelativeToolTip": "mvcDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:20:09.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Controllers\\DepartmentsController.cs",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Program.cs",
               "RelativeDocumentMoniker": "mvcDemo\\Program.cs",
@@ -64,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\appsettings.json",
               "RelativeDocumentMoniker": "mvcDemo\\appsettings.json",
@@ -83,14 +117,14 @@
               "RelativeDocumentMoniker": "mvcDemo\\Data\\ApplicationDBContent.cs",
               "ToolTip": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Data\\ApplicationDBContent.cs",
               "RelativeToolTip": "mvcDemo\\Data\\ApplicationDBContent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T12:23:35.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Models\\Department.cs",
               "RelativeDocumentMoniker": "mvcDemo\\Models\\Department.cs",
@@ -98,12 +132,11 @@
               "RelativeToolTip": "mvcDemo\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T12:16:09.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T12:16:09.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "mvcDemo\\Controllers\\HomeController.cs",
