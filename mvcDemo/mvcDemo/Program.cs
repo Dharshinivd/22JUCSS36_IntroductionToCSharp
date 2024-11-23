@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using mvcDemo.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+//Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<ApplicationDBContext>(options =>
+    options.UseInMemoryDatabase(builder.Configuration.GetConnectionString("CollegeInmemoryDB"))
+    );
 
 var app = builder.Build();
 
