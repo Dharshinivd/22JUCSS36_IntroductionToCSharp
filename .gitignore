@@ -74,3 +74,6 @@
 /namespace/.vs
 /namespace/namespace/bin
 /namespace/namespace/obj
+/static/static/bin
+/static/static/obj
+/static/.vs
