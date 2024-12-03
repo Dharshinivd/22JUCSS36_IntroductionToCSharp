@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\views\\staffs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\staffs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\controllers\\staffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\staffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\views\\staffs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\staffs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B27D6A10-4483-425E-8325-FDA14E99BAB9}|mvcDemo\\mvcDemo.csproj|c:\\project main\\22jucss36_introductiontocsharp\\mvcdemo\\mvcdemo\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,50 +62,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Views\\Staffs\\Create.cshtml",
               "RelativeDocumentMoniker": "mvcDemo\\Views\\Staffs\\Create.cshtml",
               "ToolTip": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Views\\Staffs\\Create.cshtml",
               "RelativeToolTip": "mvcDemo\\Views\\Staffs\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwCQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwC0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-29T06:18:04.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Views\\Staffs\\Index.cshtml",
               "RelativeDocumentMoniker": "mvcDemo\\Views\\Staffs\\Index.cshtml",
               "ToolTip": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Views\\Staffs\\Index.cshtml",
               "RelativeToolTip": "mvcDemo\\Views\\Staffs\\Index.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwCIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-28T08:56:34.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Staffs.cs",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Controllers\\Staffs.cs",
               "RelativeDocumentMoniker": "mvcDemo\\Controllers\\Staffs.cs",
               "ToolTip": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Controllers\\Staffs.cs",
               "RelativeToolTip": "mvcDemo\\Controllers\\Staffs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T08:52:09.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Staff.cs",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Models\\Staff.cs",
               "RelativeDocumentMoniker": "mvcDemo\\Models\\Staff.cs",
@@ -113,8 +113,7 @@
               "RelativeToolTip": "mvcDemo\\Models\\Staff.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T08:48:15.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T08:48:15.381Z"
             },
             {
               "$type": "Document",
@@ -142,13 +141,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "mvcDemo\\Controllers\\StudentsController.cs",
               "ToolTip": "C:\\PROJECT main\\22JUCSS36_IntroductionToCSharp\\mvcDemo\\mvcDemo\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "mvcDemo\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAowIoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T07:52:58.107Z",
               "EditorCaption": ""
