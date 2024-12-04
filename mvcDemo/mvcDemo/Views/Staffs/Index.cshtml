@@ -1,14 +1,13 @@
 ﻿@model IEnumerable<mvcDemo.Models.Staff>
-
-@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
 @{
-    ViewData["Title"] = "Staffs Page";
+    ViewData["Title"] = "Index";
 }
 
-<h1>Staffs Module</h1>
+<h1>Index</h1>
 
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
 <table class="table">
     <thead>
         <tr>
@@ -19,31 +18,34 @@
                 @Html.DisplayNameFor(model => model.DepartmentId)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.StaffName) 
+                @Html.DisplayNameFor(model => model.StaffName)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Qualification)
             </th>
+            <th></th>
         </tr>
-    </thead>
-
-<tbody>
-    @foreach (var item in Model)
-    {
-        <tr>
+    </thead><tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
                 <td>
                     @Html.DisplayFor(modelItem => item.Id)
                 </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DepartmentId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.StaffName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Qualification)
-            </td>
-        </tr>
-    }
-</tbody>
-</table>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DepartmentId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StaffName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Qualification)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+
+                </td>
+            </tr>
+        }
+    </tbody></table>
